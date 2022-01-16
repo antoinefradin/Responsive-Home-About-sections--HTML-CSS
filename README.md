@@ -1,4 +1,4 @@
-# **Responsive HTML/CSS/JS Home & About Section**
+# **Responsive HTML/CSS Home & About Section**
 
 **Minimal responsive home & about sections design**<br />
 
